@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "formatted like this Google is my friend "
-date:       2020-06-11 18:43:15 +0000
+title:      "formatted Google is my friend "
+date:       2020-06-11 14:43:17 -0400
 permalink:  formatted_like_this_google_is_my_friend
 ---
 
