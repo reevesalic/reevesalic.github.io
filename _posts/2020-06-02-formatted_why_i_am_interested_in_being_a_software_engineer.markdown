@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "formatted Why I am interested in being a Software Engineer. "
-date:       2020-06-02 14:48:07 +0000
+title:      "Why I am interested in being a Software Engineer. "
+date:       2020-06-02 10:48:08 -0400
 permalink:  formatted_why_i_am_interested_in_being_a_software_engineer
 ---
 
