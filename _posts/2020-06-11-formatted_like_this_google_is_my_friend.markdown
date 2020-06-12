@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "formatted Google is my friend "
+title:      "Google is my friend "
 date:       2020-06-11 14:43:17 -0400
 permalink:  formatted_like_this_google_is_my_friend
 ---
