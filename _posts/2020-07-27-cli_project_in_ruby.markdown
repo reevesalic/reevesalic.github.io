@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project in Ruby"
-date:       2020-07-27 15:35:24 +0000
+date:       2020-07-27 11:35:25 -0400
 permalink:  cli_project_in_ruby
 ---
 
@@ -19,3 +19,5 @@ What I've learned.
 Listen what is recommended. They know what they are talking about. This has been a great journey so far. 
 
 Back to working on my project. Wish me luck!
+
+Alicia 
