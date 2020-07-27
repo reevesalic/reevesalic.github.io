@@ -1,11 +1,11 @@
 # Site settings
 author: Alicia Reeves
-title: 
+title: Alicia's Adventure
 header-img: img/home-bg.png
 email: reevesalic@gmail.com
 copyright_name: Alicia Reeves
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  reevesalic
