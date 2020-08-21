@@ -13,7 +13,7 @@ Self is a BIG topic. I will try to keep it short and concise. Self in Ruby means
     Example:
 		
     ```
-   def initialize (cat)
+ def initialize(cat)
     @cat = cat
     @@all << self
     End 
@@ -33,9 +33,11 @@ Self is a BIG topic. I will try to keep it short and concise. Self in Ruby means
      
 	   Example:
 		 
-     def car
+     ```
+def car
      puts “The car is fast.”
      end
+```
 
 Thanks!
 Alicia Reeves
