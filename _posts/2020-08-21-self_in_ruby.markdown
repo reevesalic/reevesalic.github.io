@@ -13,10 +13,10 @@ Self is a BIG topic. I will try to keep it short and concise. Self in Ruby means
     Example:
 		
     ```
- def initialize(cat)
-    @cat = cat
-    @@all << self
-    End 
+  def initialize(cat)
+      @cat = cat
+      @@all << self
+   end 
 ```
 		
 2. Class –Self in a class refers to the class itself.
@@ -24,9 +24,9 @@ Self is a BIG topic. I will try to keep it short and concise. Self in Ruby means
 	  Example:
 		
     ```
- def self.all
-     @@all
-     end
+   def self.all
+      @@all
+    end
 ```
 
 3. 	Instance Method –  self refers to the instance the method is being called on. When you do not explicitly  use self in          your method, it is assumed. 
@@ -34,10 +34,8 @@ Self is a BIG topic. I will try to keep it short and concise. Self in Ruby means
 	   Example:
 		 
      ```
-def car
+  def car
      puts “The car is fast.”
-     end
+   end
 ```
-
-Thanks!
-Alicia Reeves
+Thank you for reading my blog!
