@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Sinatra project "
-date:       2020-10-04 17:52:45 +0000
+date:       2020-10-04 13:52:46 -0400
 permalink:  my_sinatra_project
 ---
 
@@ -12,3 +12,4 @@ I decided to create an application that a user can log books they've read. Since
 
 My goal is to make this into a mobile app so you can pull up the application on your phone when you are in the store buying books.
 
+I am still working on viewing only that user's list. Right now, it is showing the entire list of books regardless of who added the book.
